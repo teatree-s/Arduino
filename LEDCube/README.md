@@ -77,5 +77,5 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 
 # 5. 参考
 
-- [Arduino IDE](https://store-usa.arduino.cc/products/arduino-nano/)
+- [Arduino IDE](https://www.arduino.cc/en/software)
 - [Arduino Nano](https://store-usa.arduino.cc/products/arduino-nano/)
