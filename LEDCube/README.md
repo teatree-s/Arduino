@@ -9,6 +9,10 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 
 <img src="./img/IMG_3631.JPEG" width="480">
 
+3x3x3 の作り方もあります。
+
+<img src="./img/IMG_3653.JPEG" width="480">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # 2. Arduino IDE
@@ -24,6 +28,8 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 
 # 3. 配線図
 
+## 3.1. 2x2x2 LED Cube
+
 | Nano | LED     |
 | ---- | ------- |
 | A3   | Layer1  |
@@ -38,11 +44,11 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# 4. 作り方
+# 4. 2x2x2 LED Cube の作り方
 
 ## 4.1. Layer の作成
 
-- LED Cube 作成プレート に LED のアノード(+)が右になるように 4 個挿します。
+- LED Cube 作成プレート に LED のアノード(+)が右になるように LED を挿します。
 
 <img src="./img/IMG_3646.JPEG" width="480">
 
@@ -75,7 +81,46 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 
 - すぐにお試ししたい場合には LEDCube.ino を書込します。
 
-# 5. 参考
+# 5. 3x3x3 LED Cube の作り方
+
+## 5.1. Layer の作成
+
+- LED Cube 作成プレート に LED のアノード(+)が右になるように LED を挿します。
+
+<img src="./img/IMG_3650.JPEG" width="480">
+
+- アノード(+)を右へ倒します。
+- すずめっき線 5cm を、縦に 3 つ、横に 1 つはんだ付けします。
+- カソード(-)を L 字型に曲げます。L 字の角は LED の少し外側で曲げます。
+- これを 3 つ作ります。
+
+<img src="./img/IMG_3652.JPEG" width="480">
+
+## 5.2. LED Cube の作成
+
+- 縦 5cm 部分をはんだ付けするため、すずめっき線 7cm を 9 つ作成します。
+- すずめっき線を使って 3 つの Layer のカソードを 9 箇所はんだ付けし Cube にします。
+- Layer1,2,3 の横線からユニバーサル基盤までの長さの線を作成します。
+- Layer1,2,3 の横線にはんだ付けします。
+
+<img src="./img/IMG_3653.JPEG" width="480">
+<img src="./img/IMG_3654.JPEG" width="480">
+
+## 5.3. ユニバーサル基盤への配線
+
+- Nano 用のヘッダーソケットをはんだ付けします。
+- 角の 4 つと、Layer,Column をつなげる箇所をはんだ付けすれば OK です。
+- Layer は 100 オームの抵抗を入れて A3,4,5 にはんだ付けします。
+- Column は A2 ～ A10 にはんだ付けします。
+- つなげる先はお好みに合わせてください。
+
+<img src="./img/IMG_3655.jpeg" width="480">
+
+## 5.4. プログラムの書き込み
+
+- LEDCube.ino を参考に作成します。
+
+# 6. 参考
 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [Arduino Nano](https://store-usa.arduino.cc/products/arduino-nano/)
