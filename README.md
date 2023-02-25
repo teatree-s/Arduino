@@ -15,7 +15,8 @@ Arduino Nano を対象としたプロジェクトです。
 
 Arduino Nano を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
 
-- LEDCube : 2x2x2 LED Cube プロジェクト
+- LEDCube : LED Cube プロジェクト
+- DFPlayerMini : DFPlayerMini と光センサーを使ったプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
