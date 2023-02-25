@@ -114,7 +114,7 @@ Arduino IDE を使用して、スケッチ例 01.Basics - Blink を元に、LED 
 - Column は A2 ～ A10 にはんだ付けします。
 - つなげる先はお好みに合わせてください。
 
-<img src="./img/IMG_3655.jpeg" width="480">
+<img src="./img/IMG_3655.JPEG" width="480">
 
 ## 5.4. プログラムの書き込み
 
