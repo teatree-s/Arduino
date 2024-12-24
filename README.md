@@ -18,6 +18,7 @@ Arduino Nano を使ったプログラムを置いています。各プロジェ�
 - LEDCube : LED Cube プロジェクト
 - DFPlayerMini : DFPlayerMini と光センサーを使ったプロジェクト
 - SSD1306 : SSD1306 を表示させるサンプルプログラム
+- ST7735 : ST7735 を表示させるサンプルプログラム
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
