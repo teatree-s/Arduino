@@ -19,6 +19,7 @@ Arduino Nano を使ったプログラムを置いています。各プロジェ�
 - DFPlayerMini : DFPlayerMini と光センサーを使ったプロジェクト
 - SSD1306 : SSD1306 を表示させるサンプルプログラム
 - ST7735 : ST7735 を表示させるサンプルプログラム
+- MP3Player : MP3Player を作成させるサンプルプログラム
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
