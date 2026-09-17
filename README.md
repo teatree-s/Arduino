@@ -29,3 +29,10 @@ Arduino Nano を使ったプログラムを置いています。各プロジェ�
 - [Arduino Nano](https://store-usa.arduino.cc/products/arduino-nano/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# 4. 作品
+
+<img src="./docs/DSC00486.JPEG" width="360">
+<img src="./docs/IMG_3653.JPEG" width="360">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
