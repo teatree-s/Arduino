@@ -4,8 +4,8 @@
 
 # 1. プロジェクトについて
 
-Arduino Nano を対象としたプロジェクトです。  
-ここでは、実際に Arduino Nano で作成したプログラムを展開します。
+Arduino を対象としたプロジェクトです。  
+ここでは、実際に Arduino で作成したプログラムを展開します。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -13,8 +13,9 @@ Arduino Nano を対象としたプロジェクトです。
 
 # 2. 使い方
 
-Arduino Nano を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
+Arduino を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
 
+- AHT20-OLED : 温湿度センサーAHT20を使ったプロジェクト
 - LEDCube : LED Cube プロジェクト
 - DFPlayerMini : DFPlayerMini と光センサーを使ったプロジェクト
 - SSD1306 : SSD1306 を表示させるサンプルプログラム
